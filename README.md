@@ -1,2 +1,1 @@
-# codewar
-練習用code庫
+$ echo "# Practicing Git" > README.md
