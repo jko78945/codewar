@@ -1,1 +1,1 @@
-$ echo "# Practicing Git" > README.md
+練習用資料庫
